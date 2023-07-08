@@ -1,7 +1,6 @@
 # VirtualClin
 
 VirtualClin: API para a organização de profissionais da área da saúde.
-Autor
 Nome: Cassiano Pacheco
  
 Área de Atuação
